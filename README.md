@@ -46,7 +46,7 @@ I’m eager to contribute to teams solving meaningful problems while growing as 
 
 ## 📫 Let’s Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](www.linkedin.com/in/shubham-dobariya-339071261)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/shubham-dobariya-339071261)  
 ✉️ Email: [shubhamdobariya44@gmail.com](mailto:your-email@example.com)
 
 ---
