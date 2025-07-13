@@ -1,55 +1,48 @@
-<!-- ## Hi there 👋 -->
+# 👋 Hi, I'm Shubham Dobariya
 
-<!--
-**ShubhamDobariya/ShubhamDobariya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year B.Tech student in Computer Science & Engineering (AI & ML)  
+📍 Gujarat, India | 📬 shubhamdobariya44@gmail.com
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I’m passionate about building intelligent, scalable, and impactful solutions that combine modern web technologies with artificial intelligence. With experience in full-stack development, data science, and machine learning, I love exploring ways to solve real-world problems with clean, efficient code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
+## 🚀 Tech Stack
 
-# 👋 Hi there, I’m Shubham Dobariya
+- **Programming Languages**: Python, C++, C
+- **Web Development**: HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, React.js, Node.js, Express.js
+- **Backend & APIs**: FastAPI, REST APIs
+- **Databases**: MongoDB, MySQL
+- **Tools & Platforms**: Git, GitHub, Postman, VS Code, Streamlit, Power BI, Excel
+- **Data Science & AI**:
+  - Libraries: Pandas, NumPy, Seaborn, Matplotlib, Plotly, Scikit-learn
+  - Concepts: Supervised & Unsupervised ML, TF-IDF, Cosine Similarity, Feature Engineering, Model Evaluation
 
-🎓 Final-year B.Tech student in Computer Science & Engineering (AIML)
+---
 
-Welcome to my GitHub! I'm passionate about building smart, scalable solutions that merge the power of **AI** with modern software development. With a strong foundation in both **core programming** and **web technologies**, I strive to apply data-driven thinking to solve real-world challenges.
+## 📚 Education & Certifications
 
-## 🧠 Skills & Technologies
+🎓 **B.Tech in Computer Science and Engineering (AI & ML)**  
+P P Savani University, Gujarat | CGPA: 7.78 | Expected: 2026
 
-- **Languages**: Python, C++
-- **Web Development**: MERN Stack (MongoDB, Express.js, React, Node.js)
-- **Core Interests**: Data Science, Machine Learning, Deep Learning
-- **Tools**: Git, Jupyter, VS Code, Postman, Pandas, NumPy, Matplotlib
+🎖️ **NPTEL - Data Analytics with Python (Elite Certificate)**  
+Secured 70% | Jan–Apr 2025
 
-## 🚀 What I'm Working On
+---
 
-- Enhancing my expertise in **Deep Learning** and **Model Deployment**
-- Exploring projects in **Data Visualization** and **AI-driven analytics**
-- Building personal and collaborative projects that reflect real-world use cases
+## 🏆 Achievements & Roles
 
-## 🎯 Career Goals
+- 🧠 Event Lead – *Blind Coding*, School of Engineering  
+  Designed and led the coding competition with 30+ participants.
+- 🔍 Deeply committed to advancing my expertise in Data Science, with continuous exploration of deep learning, data visualization, and model deployment techniques to solve real-world problems.
 
-I’m actively seeking **internship** and **entry-level opportunities** in:
-- Data Science & Analytics  
-- Machine Learning & AI  
-- Full-Stack Development
-
-I’m eager to contribute to teams solving meaningful problems while growing as a developer and data enthusiast.
+---
 
 ## 📫 Let’s Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/shubham-dobariya-339071261)  
-✉️ Email: [shubhamdobariya44@gmail.com](mailto:your-email@example.com)
+📧 [shubhamdobariya44@gmail.com](mailto:shubhamdobariya44@gmail.com)  
 
 ---
 
-⭐ Feel free to check out my repositories, explore my projects, or connect if you'd like to collaborate!
-
+⭐ Feel free to explore my repositories and connect with me for collaborations or opportunities!
