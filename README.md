@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shubham Dobariya
 
-🎓 Final-year B.Tech student in Computer Science & Engineering (AI & ML)  
+🎓 Final-year B.Tech Student in Computer Science & Engineering (AI & ML)  
 📍 Gujarat, India | 📬 shubhamdobariya44@gmail.com
 
 Welcome to my GitHub! I’m passionate about building intelligent, scalable, and impactful solutions that combine modern web technologies with artificial intelligence. With experience in full-stack development, data science, and machine learning, I love exploring ways to solve real-world problems with clean, efficient code.
