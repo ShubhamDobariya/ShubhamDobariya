@@ -1,48 +1,44 @@
 # 👋 Hi, I'm Shubham Dobariya
 
-🎓 Final-year B.Tech Student in Computer Science & Engineering (AI & ML)  
-📍 Gujarat, India | 📬 shubhamdobariya44@gmail.com
+🚀 **Aspiring AI Engineer**  
+🎓 B.Tech CSE (AI & ML), P P Savani University  
+📍 Gujarat, India  
+📬 shubhamdobariya44@gmail.com  
 
-Welcome to my GitHub! I’m passionate about building intelligent, scalable, and impactful solutions that combine modern web technologies with artificial intelligence. With experience in full-stack development, data science, and machine learning, I love exploring ways to solve real-world problems with clean, efficient code.
-
----
-
-## 🚀 Tech Stack
-
-- **Programming Languages**: Python, C++, C
-- **Web Development**: HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, React.js, Node.js, Express.js
-- **Backend & APIs**: FastAPI, REST APIs
-- **Databases**: MongoDB, MySQL
-- **Tools & Platforms**: Git, GitHub, Postman, VS Code, Streamlit, Power BI, Excel
-- **Data Science & AI**:
-  - Libraries: Pandas, NumPy, Seaborn, Matplotlib, Plotly, Scikit-learn
-  - Concepts: Supervised & Unsupervised ML, TF-IDF, Cosine Similarity, Feature Engineering, Model Evaluation
+I enjoy building intelligent systems using **Machine Learning, Deep Learning, and Generative AI**.  
+My work focuses on combining **AI + APIs + Full-Stack** to create practical, real-world applications.
 
 ---
 
-## 📚 Education & Certifications
+## ⚡ Skills
 
-🎓 **B.Tech in Computer Science and Engineering (AI & ML)**  
-P P Savani University, Gujarat | CGPA: 7.78 | Expected: 2026
+### **AI & ML**
+- Machine Learning, Deep Learning, Generative AI, LLMs  
+- NLP, Prompt Engineering, RAG, Model Evaluation
 
-🎖️ **NPTEL - Data Analytics with Python (Elite Certificate)**  
-Secured 70% | Jan–Apr 2025
+### **Frameworks & Libraries**
+- LangChain, Hugging Face Transformers  
+- TensorFlow, Keras, Scikit-learn  
+- Flask, FastAPI, Streamlit
 
----
+### **Programming & Tools**
+- Python, C++, C  
+- Git, GitHub, Docker, Postman
 
-## 🏆 Achievements & Roles
-
-- 🧠 Event Lead – *Blind Coding*, School of Engineering  
-  Designed and led the coding competition with 30+ participants.
-- 🔍 Deeply committed to advancing my expertise in Data Science, with continuous exploration of deep learning, data visualization, and model deployment techniques to solve real-world problems.
-
----
-
-## 📫 Let’s Connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/shubham-dobariya-339071261)  
-📧 [shubhamdobariya44@gmail.com](mailto:shubhamdobariya44@gmail.com)  
+### **Databases**
+- SQL, MongoDB, PostgreSQL, Pinecone Vector DB
 
 ---
 
-⭐ Feel free to explore my repositories and connect with me for collaborations or opportunities!
+## 🎖️ Achievements
+- Event Lead for **Blind Coding**, organized for 30+ participants  
+- **NPTEL Elite Certificate** – Data Analytics with Python (2025)
+
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/shubham-dobariya27/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/ShubhamDobariya)  
+
+📧 **Email:** shubhamdobariya44@gmail.com  
