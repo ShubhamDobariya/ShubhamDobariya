@@ -38,7 +38,5 @@ My work focuses on combining **AI + APIs + Full-Stack** to create practical, rea
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/shubham-dobariya27/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/ShubhamDobariya)  
-
-📧 **Email:** shubhamdobariya44@gmail.com  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/shubham-dobariya-339071261) 
+📧 [shubhamdobariya44@gmail.com](mailto:shubhamdobariya44@gmail.com)
