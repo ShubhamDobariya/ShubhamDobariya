@@ -1,42 +1,71 @@
-# 👋 Hi, I'm Shubham Dobariya
+# Hi 👋, I'm Shubham Dobariya
 
-🚀 **Aspiring AI Engineer**  
-🎓 B.Tech CSE (AI & ML), P P Savani University  
-📍 Gujarat, India  
-📬 shubhamdobariya44@gmail.com  
+## 🤖 AI/ML Engineer | Python Developer
 
-I enjoy building intelligent systems using **Machine Learning, Deep Learning, and Generative AI**.  
-My work focuses on combining **AI + APIs + Full-Stack** to create practical, real-world applications.
+Passionate about building real-world AI applications using Python, FastAPI, LangChain, and LLMs.
 
 ---
 
-## ⚡ Skills
+## 🚀 About Me
 
-### **AI & ML**
-- Machine Learning, Deep Learning, Generative AI, LLMs  
-- NLP, Prompt Engineering, RAG, Model Evaluation
-
-### **Frameworks & Libraries**
-- LangChain, Hugging Face Transformers  
-- TensorFlow, Keras, Scikit-learn  
-- Flask, FastAPI, Streamlit
-
-### **Programming & Tools**
-- Python, C++, C  
-- Git, GitHub, Docker, Postman
-
-### **Databases**
-- SQL, MongoDB, PostgreSQL, Pinecone Vector DB
+* 🎓 B.Tech CSE (AI & ML) Student
+* 💻 AI/ML Intern at Triovex Solution Pvt. Ltd.
+* 🤖 Building RAG Chatbots & Local LLM Systems
+* ⚡ Exploring Generative AI & Production AI Pipelines
+* 🌱 Currently learning Advanced FastAPI & Scalable AI Systems
 
 ---
 
-## 🎖️ Achievements
-- Event Lead for **Blind Coding**, organized for 30+ participants  
-- **NPTEL Elite Certificate** – Data Analytics with Python (2025)
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+* Python
+* SQL
+
+### 🤖 AI & Machine Learning
+
+* Machine Learning
+* Deep Learning
+* NLP
+* Transformers
+* LangChain
+* RAG
+* Prompt Engineering
+* OpenAI API
+* Hugging Face
+
+### ⚙️ Backend & Deployment
+
+* FastAPI
+* Flask
+* Docker
+* GitHub Actions
+
+### 🗄️ Databases & Vector DBs
+
+* PostgreSQL
+* Pinecone
+* FAISS
+* ChromaDB
+
+### 🧰 Tools
+
+* Git
+* Ollama
+* Jupyter Notebook
+* n8n
 
 ---
+
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/shubham-dobariya-339071261) &nbsp;&nbsp;&nbsp;
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/ShubhamDobariya/)
+* 💼 LinkedIn
+* 📧 [shubhamdobariya44@gmail.com](mailto:shubhamdobariya44@gmail.com)
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy building AI systems that solve real-world problems 🚀
